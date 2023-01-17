@@ -4,7 +4,7 @@
 
 Para realizar la construcción de la imagen:
 
-`docker build -t davidpenya77/rockylinux9-tomcat:latest .`
+`docker build -t davidochobits/rockylinux9-tomcat:latest .`
 
 Una vez generada la imagen, utilizamos el siguiente comando:
 
