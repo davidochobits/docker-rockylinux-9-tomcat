@@ -1,4 +1,4 @@
-FROM rockylinux:9-minimal
+FROM rockylinux:9
 
 MAINTAINER davidochobits davidochobits@protonmail.com
 
