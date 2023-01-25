@@ -1,4 +1,4 @@
-FROM rockylinux:8
+FROM rockylinux:9
 
 MAINTAINER davidochobits davidochobits@colaboratorio.net
 
