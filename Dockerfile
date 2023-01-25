@@ -1,6 +1,6 @@
 FROM rockylinux:9
 
-MAINTAINER davidochobits davidochobits@colaboratorio.net
+MAINTAINER davidochobits davidochobits@protonmail.com
 
 
 ENV container docker
